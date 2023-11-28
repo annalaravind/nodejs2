@@ -1,0 +1,25 @@
+{
+  "name": "nodejs2",
+  "version": "0.0.1",
+  "description": "Application Description",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "dependencies": {
+    "angular": "latest",
+    "angular-ui-router": "~0.2.11",
+    "cloudinary": "^1.41.0",
+    "dat-gui": "latest",
+    "dotenv": "^16.3.1",
+    "express": "~3.0.1",
+    "path": "latest",
+    "q": "latest",
+    "sequelize": "latest",
+    "tedious": "latest"
+  }
+}
